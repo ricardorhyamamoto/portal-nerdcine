@@ -1,0 +1,106 @@
+header {
+    text-align: center;
+}
+
+#figure-doutor-sono {
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
+
+#figure-exterminador {
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
+
+#figure-toy-story {
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
+
+#figure-it-2 {
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
+
+#h2-premios {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+#h2-quem-somos {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+#h2-em-breve {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+#div-quem-somos {
+    padding-bottom: 30px;
+}
+
+#div-em-breve {
+    padding-bottom: 30px;
+}
+
+#div-bio {
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+#div-trailer {
+    margin: 30px auto 30px auto;
+}
+
+.div-card-index {
+    width: 380px;
+}
+
+.div-hr-index {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    width: 380px;
+}
+
+#hr-em-breve {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#hr-fale-conosco {
+    padding-top: 20px;
+}
+
+#main-acao {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+#main-animacao {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+#main-nacional {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+#main-terror {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+#aside-index {
+    padding-top: 25px;
+}
+
+#section-normas {
+    padding-top: 120px;
+}
+
+#form-fale-conosco {
+    padding-bottom: 50px;
+}
